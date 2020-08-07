@@ -1,3 +1,3 @@
 # Summer-2020-Portfolio
-## Gabriel Oliver
-## olivergabe@hotmail.com
+## Gabriel Oliver ~ olivergabe@hotmail.com
+asdf
