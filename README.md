@@ -3,15 +3,30 @@
 asdf
 
     
-##Mythos Studio’s Work | Assets for In-Development Roblox Game
-These assets were created for a game in progress being developed by a small team of me and four other developers. I designed these models by myself using the software Blender. The Roblox engine requires asset developers to keep their assets with low numbers of polygons to reduce the strain on the engine. As such, I have focused to make these assets pleasing to look at while keeping the polygon count low.
-I would get criticism by my coworkers and make subsequent drafts to fit the game’s animations, atmosphere, and game engine limitations. An example of this was making multiple editions of the blacksmith pliers. I developed multiple variations of this asset based on feedback from our team’s animator. He needed to animate a blacksmith holding an item with these pliers, so I modified the plier’s asset to fit the character’s hand. As such, I kept the open shape of the plier’s claws while closing its grip to fit the hand.
-These models are used for many aspects of the game including the game’s environment, animation, and user interface. Many of them contribute to the game’s architecture, tools, weapons, nature, and user interface elements. A significant amount of my work went into making tree variations, by request of one of our environment developers. Although I have developed many more variations, I have included some of the assets used in the game above.
+## Mythos Studio’s Work | Assets for In-Development Roblox Game
+These assets were created for a game being developed by a small team of five developers. I designed these models by myself using the software Blender. The Roblox engine requires asset developers to keep their assets with low numbers of polygons to reduce the strain on the engine. As such, I have focused to make these assets pleasing to look at while keeping the polygon count low.
+
+I would receive criticism by my partners and make subsequent drafts to fit the game’s animations, atmosphere, and game engine limitations.  An example of this was making multiple editions of the blacksmith pliers. I developed
+multiple variations of this asset based on feedback from our team’s animator. He needed to animate a blacksmith
+holding an item with these pliers, so I modified the plier’s asset to fit the character’s hand. As such, I kept
+the open shape of the plier’s claws while closing its grip to fit the hand.
+
+These models are used for many aspects of the game including the game’s environment, animation, and user interface.
+Many of them contribute to the game’s architecture, tools, weapons, nature, and user interface elements. A
+significant amount of my work went into making tree variations, by request of one of our environment developers.
+Although I have developed many more variations, I have included some of the assets used in the game above.
  
  
  
 ## COVID CRASHER | Level Designer, Gameplay Designer, Player Movement
-	COVID CRASHER is a game developed by four classmates and I made, using the Unity Engine, for my Introduction to Game Development class at UWB in Spring 2020. In this game, the player is a doctor who is shrunken in size and must navigate through their patient’s respiratory system in order to defeat the COVID virus. My portion of the project was to develop the game’s maps using Unity’s tile system, which made it easier to create and modify said maps. Developing the maps went through multiple variations to improve the player experience. We discussed map changes and received criticisms from classmates as well as our professor and I used this criticism to create a consistent color palette, contrast the UI from the environment and detail the map with realistic organ structures. 
+COVID CRASHER is a game developed by me and four other classmates using the Unity Engine for my Introduction to
+Game Development class at UWB. In this game, the player is a doctor who is shrunken in size and must navigate
+through their patient’s respiratory system in order to defeat the COVID virus. My portion of the project was to
+develop the game’s maps using Unity’s tile system, which made it easier to create and modify said maps. Developing
+the maps went through multiple variations to improve the player experience. We discussed map changes and received
+criticisms from classmates as well as our professor and I used this criticism to create a consistent color palette,
+contrast the UI from the environment and detail the map with realistic organ structures. 
+
 	As part of our project for Introduction to Game Development, we needed to follow a theme: exponentials. Discussing with the team, I was in charge of how we satisfied this theme by our game’s aesthetics and gameplay. The environmental setting was to fight a virus that spreads exponentially in the respiratory system, and using a gameplay mechanic of the cookie clicker. A cookie clicker is an object that you click for points which allows the player to purchase auto-clickers to automate getting points, leading to exponential point growth. In addition, I scripted and implemented the player’s movement, one of the boss’s attacks, set the enemy spawn locations, and designed enemy encounters. 
 Our team was exceptional at communicating what needed to be done and following through on our goals as a team. We knew our limits and allocated the appropriate amount of time and work we could achieve for that week. For example, we met to discuss what needed to be done for our last sprint before the final presentation as well as how to present our final project. We had a few UI and gameplay bugs in our game that needed to be fixed, as well as significant enemy/spawning balancing issues and incomplete boss features so we had regular meetings in order to accommodate for debugging. We allocated work to each group member responsibly and managed to complete each task successfully and on in a timely manner.
 COVID CRASHER website:
@@ -56,33 +71,10 @@ Another contribution I made to the game was creating a general enemy class that 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
 ## Airsoft Gun Based on Halo SMG Design
 	This project is an airsoft gun based on the design in the Halo series. This is a personal project for the purpose to play airsoft with a costume I designed. The target for this project is to create a custom airsoft gun that has unique and practical uses for airsoft purposes. It will be approximately 16 in. x 7.75 in. x 2.75 in. This gun model is unique in that the magazine that feeds the ammunition is on the side of the weapon, requiring a unique feeding mechanism.
-	For this project, I self-taught myself 3D modeling using the software Blender to envision the design I wanted. I plan to make this model CO2-powered however the issue is that there are no side-fed gas airsoft guns made, which has lead me to research airsoft guns in order to create my own gas-mechanism to support this unique magazine feature.
+	For this project, I self-taught myself 3D modeling using the software Blender to envision the design I wanted. I plan to make this model CO2-powered, however the issue is that there are no side-fed gas airsoft guns made, which has led me to research airsoft guns in order to create my own gas-mechanism to support this unique magazine feature.
 
-
-	The gun model shown above is made from EVA foam and it is showing a rough gas system for the magazine to feed the airsoft gun. I’m using a hop-up system meant for electric powered side fed airsoft guns and this will attach to the CO2 container housed in the stock of the airsoft gun, and the magazine will feed ammunition into the hop-up from the side. The airsoft gun is planned to have collapsible grip and stock. 
+The gun model shown above is made from EVA foam and it is showing a rough gas system for the magazine to feed the airsoft gun. I’m using a hop-up system meant for electric powered side fed airsoft guns and this will attach to the CO2 container housed in the stock of the airsoft gun, and the magazine will feed ammunition into the hop-up from the side. The airsoft gun is planned to have collapsible grip and stock. 
 
