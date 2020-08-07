@@ -21,6 +21,7 @@ Although I have developed many more variations, I have included some of the asse
  
 ## COVID CRASHER | Level Designer, Gameplay Designer, Player Movement
 See Game Image: https://rb.gy/iuxszx
+
 *COVID CRASHER* is a game developed by me and four other classmates using the Unity Engine for my Introduction
 to Game Development class at UWB. In this game, the player is a doctor who is shrunken in size and must navigate
 through their patient’s respiratory system in order to defeat the COVID virus. My portion of the project was to
