@@ -3,6 +3,8 @@
 
     
 ## Mythos Studio’s Work | Assets for In-Development Roblox Game
+See Folders of Images: https://rb.gy/doynnz
+
 These assets were created for a game being developed by a small team of five developers. I designed
 these models by myself using the software Blender. The Roblox engine requires asset developers to keep their
 assets with low numbers of polygons to reduce the strain on the engine. As such, I have focused to make these
@@ -13,11 +15,13 @@ atmosphere, and game engine limitations.  An example of this was making multiple
 I developed multiple variations of this asset based on feedback from our team’s animator. He needed to animate a
 blacksmith holding an item with these pliers, so I modified the plier’s asset to fit the character’s hand. As such,
 I kept the open shape of the plier’s claws while closing its grip to fit the hand.
+See Variations: https://rb.gy/gjc2ue, https://rb.gy/zs801y
 
 These models are used for many aspects of the game including the game’s environment, animation, and user interface.
 Many of them contribute to the game’s architecture, tools, weapons, nature, and user interface elements. A
 significant amount of my work went into making tree variations, by request of one of our environment developers.
-Although I have developed many more variations, I have included some of the assets used in the game above. 
+Although I have developed many more variations, I have included some of the assets used in the game
+here: https://rb.gy/qp7zs2
  
 ## COVID CRASHER | Level Designer, Gameplay Designer, Player Movement
 See Game Image: https://rb.gy/iuxszx
