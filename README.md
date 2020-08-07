@@ -3,7 +3,7 @@
 
     
 ## Mythos Studio’s Work | Assets for In-Development Roblox Game
-	These assets were created for a game being developed by a small team of five developers. I designed
+These assets were created for a game being developed by a small team of five developers. I designed
 these models by myself using the software Blender. The Roblox engine requires asset developers to keep their
 assets with low numbers of polygons to reduce the strain on the engine. As such, I have focused to make these
 assets pleasing to look at while keeping the polygon count low.
@@ -18,7 +18,7 @@ significant amount of my work went into making tree variations, by request of on
 Although I have developed many more variations, I have included some of the assets used in the game above. 
  
 ## COVID CRASHER | Level Designer, Gameplay Designer, Player Movement
-	*COVID CRASHER* is a game developed by me and four other classmates using the Unity Engine for my Introduction
+*COVID CRASHER* is a game developed by me and four other classmates using the Unity Engine for my Introduction
 to Game Development class at UWB. In this game, the player is a doctor who is shrunken in size and must navigate
 through their patient’s respiratory system in order to defeat the COVID virus. My portion of the project was to
 develop the game’s maps using Unity’s tile system, which made it easier to create and modify said maps. Developing
