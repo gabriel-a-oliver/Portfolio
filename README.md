@@ -109,10 +109,13 @@ moves and damages enemies.
 *Untitled Jam Game* Code and Game: https://github.com/ajayk111/UWGDC-Fall-2019-Jam
   
 ## Airsoft Gun Based on Halo SMG Design
-This project is an airsoft gun based on the design in the Halo series. This is a personal project for the purpose to 
-play airsoft with a costume I designed. The target for this project is to create a custom airsoft gun that has unique and
-practical uses for airsoft purposes. It will be approximately 16 in. x 7.75 in. x 2.75 in. This gun model is unique in that the
-magazine that feeds the ammunition is on the side of the weapon, requiring a unique feeding mechanism.
+Folder of Images: https://rb.gy/7kjx7m
+
+This project is an airsoft gun based on the design in the Halo series, here: https://rb.gy/sifkih. This is a personal project
+for the purpose to play airsoft with a costume I designed. The target for this project is to create a custom airsoft gun that
+has unique and practical uses for airsoft purposes. It will be approximately 16 in. x 7.75 in. x 2.75 in. This gun model is
+unique in that the magazine that feeds the ammunition is on the side of the weapon, requiring a unique feeding mechanism, see
+here: https://rb.gy/bwzqbx.
 
 For this project, I self-taught myself 3D modeling using the software Blender to envision the design I wanted. I plan
 to make this model CO2-powered, however the issue is that there are no side-fed gas airsoft guns made, which has led me to
@@ -120,5 +123,6 @@ research airsoft guns in order to create my own gas-mechanism to support this un
 
 The gun model shown above is made from EVA foam and it is showing a rough gas system for the magazine to feed the airsoft
 gun. I’m using a hop-up system meant for electric powered side fed airsoft guns and this will attach to the CO2 container housed
-in the stock of the airsoft gun, and the magazine will feed ammunition into the hop-up from the side. The airsoft gun is planned
-to have collapsible grip and stock. 
+in the stock of the airsoft gun, and the magazine will feed ammunition into the hop-up from the side, here: https://rb.gy/t6trku,
+https://rb.gy/kgapzz. The airsoft gun is planned
+to have collapsible grip and stock, here: https://rb.gy/mnwnk8. 
