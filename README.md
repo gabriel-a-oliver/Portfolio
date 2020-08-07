@@ -42,7 +42,7 @@ project. We had a few UI and gameplay bugs in our game that needed to be fixed, 
 balancing issues and incomplete boss features so we had regular meetings in order to accommodate for debugging. We
 allocated work to each group member responsibly and managed to complete each task successfully and on in a timely manner.
 
-*COVID CRASHER* website:
+*COVID CRASHER* website and trailer:
 https://css385team.github.io/CovidCrasher-Website/index.html
 
 Play *COVID CRASHER*:
