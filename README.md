@@ -3,7 +3,7 @@
 
     
 ## Mythos Studio’s Work | Assets for In-Development Roblox Game
-These assets were created for a game being developed by a small team of five developers. I designed
+   These assets were created for a game being developed by a small team of five developers. I designed
 these models by myself using the software Blender. The Roblox engine requires asset developers to keep their
 assets with low numbers of polygons to reduce the strain on the engine. As such, I have focused to make these
 assets pleasing to look at while keeping the polygon count low.
