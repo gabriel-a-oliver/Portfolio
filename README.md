@@ -44,6 +44,7 @@ allocated work to each group member responsibly and managed to complete each tas
 
 *COVID CRASHER* website:
 https://css385team.github.io/CovidCrasher-Website/index.html
+
 Play *COVID CRASHER*:
 https://simmer.io/@Khaoula/covidcrasher-final
                   	
