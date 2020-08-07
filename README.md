@@ -48,6 +48,8 @@ project. We had a few UI and gameplay bugs in our game that needed to be fixed, 
 balancing issues and incomplete boss features so we had regular meetings in order to accommodate for debugging. We
 allocated work to each group member responsibly and managed to complete each task successfully and on in a timely manner.
 
+*COVID CRASHER* Code: https://github.com/CSS385Team/CovidCrasher
+
 *COVID CRASHER* website and trailer:
 https://css385team.github.io/CovidCrasher-Website/index.html
 
@@ -81,6 +83,7 @@ in the top left corner using Adobe Illustrator. I enlarged the words “Society�
 the book’s theme and imagery of the book cover. 
 
 ## Untitled Jam Game | Map Theme, AI A* Implementation, Enemy Parent Class, Melee Weapon, Health, and Speed-boost Programming
+See Folder of Images: https://rb.gy/noivnu
 
 *Untitled Jam Game* is a game I helped create in a team of three during the UW Game Developer Club Autumn 2019 Game Jam.
 This was the first complete game I helped develop using the Unity Engine. The Game Jam had a retro theme. In the game, the
@@ -88,9 +91,9 @@ player controls a child in an arcade who can punch and pick up weapons and power
 of four waves, the enemies become harder as the waves progress, but the enemies drop more powerful power-ups.
 
 My role in the group was to help program different facets of the game, such facets are the behaviors of the sprites
-above. One element I helped create was the location of the game. Since the Game Jam has a retro theme, instead of just having a
-retro art style, I suggested that the game takes place in an arcade, this will tie the game back to the Game Jam theme but also
-give some fantasy context to the enemies the player character is fighting.
+found in the link above. One element I helped create was the location of the game. Since the Game Jam has a retro theme, instead
+of just having a retro art style, I suggested that the game takes place in an arcade, this will tie the game back to the Game
+Jam theme but also give some fantasy context to the enemies the player character is fighting. See here: https://rb.gy/eaycid.
 
 In addition, I helped implement A* artificial intelligence for the enemies. One of my group members created the AI for
 enemies to attack the player, react to getting hit and chasing the player, the enemies would occasionally get stuck on terrain.
@@ -102,6 +105,8 @@ I did this by implementing the infrastructure to add behaviors. I also suggested
 coin and his melee weapon a Nintendo Power-Glove inspired glove, tying it back to the Game Jam theme and the arcade map. I
 programmed that the “picking up a coin on the map would heal the player” aspect of this game as well as how the melee weapon
 moves and damages enemies. 
+
+*Untitled Jam Game* Code and Game: https://github.com/ajayk111/UWGDC-Fall-2019-Jam
   
 ## Airsoft Gun Based on Halo SMG Design
 This project is an airsoft gun based on the design in the Halo series. This is a personal project for the purpose to 
