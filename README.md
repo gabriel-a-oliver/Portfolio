@@ -1,5 +1,5 @@
-# Summer-2020-Portfolio
-## Gabriel Oliver ~ olivergabe@hotmail.com
+# Gabriel Oliver Portfolio
+## olivergabe@hotmail.com
 
     
 ## Mythos Studio’s Work | Assets for In-Development Roblox Game
