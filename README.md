@@ -1,5 +1,5 @@
 # Gabriel Oliver's Portfolio
-## olivergabe@hotmail.com | https://www.linkedin.com/in/gabriel-a-oliver/
+## oliver.gabriel.a@hotmail.com | https://www.linkedin.com/in/gabriel-a-oliver/
 
     
 ## Mythos Studio’s Work | Assets for In-Development Roblox Game
