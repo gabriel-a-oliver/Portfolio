@@ -59,7 +59,7 @@ https://simmer.io/@Khaoula/covidcrasher-final
 ## Society of the Spectacle | Book Cover Design
 See Folder of Images: https://rb.gy/4z1r2p
 
-Above is a project from my Introduction to Design class where I had to create book a book cover for *Society of the
+This project is from my Introduction to Design class where I had to create book a book cover for *Society of the
 Spectacle* by Guy Debord. The goal of this project was to create a book cover that expresses the theme of the book, which
 uses formal contrasts, and asymmetrical-dynamic design. The assignment was to be completed individually and required me to
 make a 6 in. x 9 in. print which includes the name of the book and author and to use no outside sources. 
@@ -107,7 +107,20 @@ programmed that the “picking up a coin on the map would heal the player” asp
 moves and damages enemies. 
 
 *Untitled Jam Game* Code and Game: https://github.com/ajayk111/UWGDC-Fall-2019-Jam
-  
+
+## RimeCraft | 3D Modeler and Texturer
+See Game Images: 
+
+*RimeCraft* is a game I helped create in a team of three during the UWB Husky Game Club Autumn 2020 Game Jam. The game is inspired
+by *MineCraft* in which the player can destroy, collect, and place blocks in the world. The player has a tool that shoots a projectile
+that reflects off of blocks, destroying them.
+
+My role in the group was to develop the 3D model of the player's tool and texture the blocks in the game's world. I used Blender to 
+develop the tool and appropriately defined the model's UV map to apply different textures to it. For the blocks, I used Blender and 
+Adobe Photoshop to develop a cube's UV and tested different textures to see if it makes a block look distinct in the game world.
+
+*RimeCraft* Game: https://aj213.itch.io/rimecraft
+
 ## Airsoft Gun Based on Halo SMG Design
 Folder of Images: https://rb.gy/7kjx7m
 
