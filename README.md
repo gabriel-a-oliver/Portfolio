@@ -109,7 +109,7 @@ moves and damages enemies.
 *Untitled Jam Game* Code and Game: https://github.com/ajayk111/UWGDC-Fall-2019-Jam
 
 ## RimeCraft | 3D Modeler and Texturer
-See Game Images: https://rb.gy/ufygbb
+See Folders of Images: https://rb.gy/ufygbb
 
 *RimeCraft* is a game I helped create in a team of three during the UWB Husky Game Club Autumn 2020 Game Jam. The game is inspired
 by *MineCraft* in which the player can destroy, collect, and place blocks in the world. The player has a tool that shoots a projectile
@@ -122,7 +122,7 @@ Adobe Photoshop to develop a cube's UV and tested different textures to see if i
 *RimeCraft* Trailer and Game: https://aj213.itch.io/rimecraft
 
 ## Airsoft Gun Based on Halo SMG Design
-Folder of Images: https://rb.gy/7kjx7m
+See Folders of Images: https://rb.gy/7kjx7m
 
 This project is an airsoft gun based on the design in the Halo series, here: https://rb.gy/sifkih. This is a personal project
 for the purpose to play airsoft with a costume I designed. The target for this project is to create a custom airsoft gun that
