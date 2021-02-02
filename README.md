@@ -36,6 +36,7 @@ Play *COVID CRASHER*:
 https://simmer.io/@Khaoula/covidcrasher-final
     
 ## Creating Interactable 3D Models & Customizable Cannon | CSS451 3-D Computer Graphics Course
+See Folders of Images and Videos: tinyurl.com/3yl745ro
 
 CSS451 3-D Computer Graphics course introduces practical and popular three-dimensional (3-D) graphic algorithms.
 Examines modeling (how to build 3-D objects), animation (how to describe the motion of objects), and rendering
@@ -55,6 +56,19 @@ The cylinder model is similar to the mesh model in that I implemented the vertex
 the feature such that when 1 vertex is translated on the cylnder, the entire row of vertices translates in the same direction
 from the center of the cylinder. The cylinder also has n by n vertices and can be rotated to represent 10 degrees of a cylinder
 to the full 360 degrees of the cylinder.
+
+The customizable cannon is made of 3 parent-child nodes that are each selectively tranformable. The grandparent node,
+the base, can be translated to move the whole cannon around, and rotate. The parent node, the arm, can be scaled vertically
+to increase the height of the cannon reach. And the child node, the barrel, can be rotated on the cannon's hinge pivot to
+change the verticle angle the ball is fired at. What is interesting about this cannon is that each piece of the cannon is
+actually at the cent of the world, and their meshes are actually relocated using TRS matrix algebra to be positioned in
+their appropriate locations. In addition, the hoop is can be moved with direct interaction from the user's mouse, and
+ball's texture can be swaped at any time.
+
+Playable Customizable Cannon (WebGL): tinyurl.com/16ai932a
+Customizable Cannon Video Demo: tinyurl.com/43m85w2g
+Custom Mesh and Cylinder GitHub: tinyurl.com/4sqmw9xd
+Customizable Cannon GitHub: tinyurl.com/4s78ml26
 
 ## Mythos Studio | Assets for In-Development Roblox Game
 See Folders of Images: https://rb.gy/doynnz
