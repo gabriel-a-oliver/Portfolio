@@ -35,7 +35,7 @@ https://css385team.github.io/CovidCrasher-Website/index.html
 Play *COVID CRASHER*:
 https://simmer.io/@Khaoula/covidcrasher-final
     
-## Creating Interactable 3D Models & Customizable Cannon | CSS451 3-D Computer Graphics Course
+## Interactable 3D Models & Customizable Cannon | CSS451 3-D Computer Graphics Course
 See Folders of Images and Videos: https://tinyurl.com/3yl745ro
 
 CSS451 3-D Computer Graphics course introduces practical and popular three-dimensional (3-D) graphic algorithms.
