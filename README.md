@@ -72,6 +72,17 @@ Customizable Cannon GitHub: https://tinyurl.com/4s78ml26
 
 Custom Mesh and Cylinder GitHub: https://tinyurl.com/4sqmw9xd
 
+## C++ Software Engineer -- The Jolly Banker | CSS342 Data Structures and Algorithms Course
+The Jolly Banker GitHub: https://tinyurl.com/zg2whlxv
+
+CSS342 Data Structures and Algorithms course covers integrating mathematical principles with detailed instruction in
+computer programming. Explores mathematical reasoning and discrete structures through object-oriented programming.
+Includes algorithm analysis, basic abstract data types, data structures, and memory management.
+
+In this course I collaborated with one classmate to develop complex data structure that manages bank accounts, their
+funds, transactions, and transaction history. Using C++, in a Linux environment, implemented the data structures'
+designs into production code. Using Valgrind, I garenteed there there were no memory leaks caused by our program.
+
 ##  Assets for In-Development Roblox Game | Mythos Studio
 See Folders of Images: https://rb.gy/doynnz
 
