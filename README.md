@@ -36,7 +36,7 @@ Play *COVID CRASHER*:
 https://simmer.io/@Khaoula/covidcrasher-final
     
 ## Creating Interactable 3D Models & Customizable Cannon | CSS451 3-D Computer Graphics Course
-See Folders of Images and Videos: tinyurl.com/3yl745ro
+See Folders of Images and Videos: https://tinyurl.com/3yl745ro
 
 CSS451 3-D Computer Graphics course introduces practical and popular three-dimensional (3-D) graphic algorithms.
 Examines modeling (how to build 3-D objects), animation (how to describe the motion of objects), and rendering
@@ -51,11 +51,12 @@ from these vertices, with these triangles, I can calculate the triangles' and ve
 the white bars that appear when the user presses the "CTRL" key. I implemented the algorithm that calculates the number
 of triangles, which triangles are owned by by which vertices, and how the normals appropriatly change after translation,
 abstracting it to fit any number of n by n vertex resolution from 2 by 2 resolution to 20 by 20 resolution.
+Demonstration here: https://tinyurl.com/2rboanuf
 
 The cylinder model is similar to the mesh model in that I implemented the vertex-triangle algorithm. In addition, I added
 the feature such that when 1 vertex is translated on the cylnder, the entire row of vertices translates in the same direction
 from the center of the cylinder. The cylinder also has n by n vertices and can be rotated to represent 10 degrees of a cylinder
-to the full 360 degrees of the cylinder.
+to the full 360 degrees of the cylinder. Demonstration here: https://tinyurl.com/y7qlekee
 
 The customizable cannon is made of 3 parent-child nodes that are each selectively tranformable. The grandparent node,
 the base, can be translated to move the whole cannon around, and rotate. The parent node, the arm, can be scaled vertically
@@ -63,15 +64,13 @@ to increase the height of the cannon reach. And the child node, the barrel, can 
 change the verticle angle the ball is fired at. What is interesting about this cannon is that each piece of the cannon is
 actually at the cent of the world, and their meshes are actually relocated using TRS matrix algebra to be positioned in
 their appropriate locations. In addition, the hoop is can be moved with direct interaction from the user's mouse, and
-ball's texture can be swaped at any time.
+ball's texture can be swaped at any time. Demonstration Here: https://tinyurl.com/43m85w2g
 
 Playable Customizable Cannon (WebGL): https://tinyurl.com/16ai932a
 
-Customizable Cannon Video Demo: tinyurl.com/43m85w2g
+Customizable Cannon GitHub: https://tinyurl.com/4s78ml26
 
-Custom Mesh and Cylinder GitHub: tinyurl.com/4sqmw9xd
-
-Customizable Cannon GitHub: tinyurl.com/4s78ml26
+Custom Mesh and Cylinder GitHub: https://tinyurl.com/4sqmw9xd
 
 ## Mythos Studio | Assets for In-Development Roblox Game
 See Folders of Images: https://rb.gy/doynnz
