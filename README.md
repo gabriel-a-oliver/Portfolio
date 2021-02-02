@@ -65,7 +65,7 @@ actually at the cent of the world, and their meshes are actually relocated using
 their appropriate locations. In addition, the hoop is can be moved with direct interaction from the user's mouse, and
 ball's texture can be swaped at any time.
 
-Playable Customizable Cannon (WebGL): tinyurl.com/16ai932a
+Playable Customizable Cannon (WebGL): https://tinyurl.com/16ai932a
 
 Customizable Cannon Video Demo: tinyurl.com/43m85w2g
 
