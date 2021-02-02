@@ -1,29 +1,8 @@
 # Gabriel Oliver's Portfolio (https://github.com/gabriel-a-oliver/Portfolio)
 ## oliver.gabriel.a@hotmail.com | https://www.linkedin.com/in/gabriel-a-oliver/
 
-    
-## Mythos Studio’s Work | Assets for In-Development Roblox Game
-See Folders of Images: https://rb.gy/doynnz
 
-These assets were created for a game being developed by a small team of five developers. I designed
-these models by myself using the software Blender. The Roblox engine requires asset developers to keep their
-assets with low numbers of polygons to reduce the strain on the engine. As such, I have focused to make these
-assets pleasing to look at while keeping the polygon count low.
-
-I would receive criticism by my partners and make subsequent drafts to fit the game’s animations,
-atmosphere, and game engine limitations.  An example of this was making multiple editions of the blacksmith pliers.
-I developed multiple variations of this asset based on feedback from our team’s animator. He needed to animate a
-blacksmith holding an item with these pliers, so I modified the plier’s asset to fit the character’s hand. As such,
-I kept the open shape of the plier’s claws while closing its grip to fit the hand.
-See Variations: https://rb.gy/gjc2ue, https://rb.gy/zs801y
-
-These models are used for many aspects of the game including the game’s environment, animation, and user interface.
-Many of them contribute to the game’s architecture, tools, weapons, nature, and user interface elements. A
-significant amount of my work went into making tree variations, by request of one of our environment developers.
-Although I have developed many more variations, I have included some of the assets used in the game
-here: https://rb.gy/qp7zs2
- 
-## COVID CRASHER | Level Designer, Gameplay Designer, Player Movement
+## COVID CRASHER | Gameplay/Level Engineer & Designer
 See Game Image: https://rb.gy/iuxszx
 
 *COVID CRASHER* is a game developed by me and four other classmates using the Unity Engine for my Introduction
@@ -55,7 +34,49 @@ https://css385team.github.io/CovidCrasher-Website/index.html
 
 Play *COVID CRASHER*:
 https://simmer.io/@Khaoula/covidcrasher-final
-                  	
+    
+## Creating Interactable 3D Models & Customizable Cannon | CSS451 3-D Computer Graphics Course
+
+CSS451 3-D Computer Graphics course introduces practical and popular three-dimensional (3-D) graphic algorithms.
+Examines modeling (how to build 3-D objects), animation (how to describe the motion of objects), and rendering
+(how to generate images of 3-D objects in animation). In this course I collaborated with 1 classmate to build a mesh
+and cylinder model that can be modified to have different number of vertices, a transformable texture, and direct 
+vertex translation cababilities. In addition my team mate and I built a cannon that is fully transform interactive
+that can shoot a ball into a hoop, incrementing the player's score. Both projects were done in Unity 3D, using C#.
+
+The mesh model has a texture that can be translated, scaled, and rotated on the mesh. It has a set of n by n vertices
+that can by translated with direct interaction from user's mouse. The mesh is calculated by a series of triangles made
+from these vertices, with these triangles, I can calculate the triangles' and vertices' normals and display them with 
+the white bars that appear when the user presses the "CTRL" key. I implemented the algorithm that calculates the number
+of triangles, which triangles are owned by by which vertices, and how the normals appropriatly change after translation,
+abstracting it to fit any number of n by n vertex resolution from 2 by 2 resolution to 20 by 20 resolution.
+
+The cylinder model is similar to the mesh model in that I implemented the vertex-triangle algorithm. In addition, I added
+the feature such that when 1 vertex is translated on the cylnder, the entire row of vertices translates in the same direction
+from the center of the cylinder. The cylinder also has n by n vertices and can be rotated to represent 10 degrees of a cylinder
+to the full 360 degrees of the cylinder.
+
+## Mythos Studio | Assets for In-Development Roblox Game
+See Folders of Images: https://rb.gy/doynnz
+
+These assets were created for a game being developed by a small team of five developers. I designed
+these models by myself using the software Blender. The Roblox engine requires asset developers to keep their
+assets with low numbers of polygons to reduce the strain on the engine. As such, I have focused to make these
+assets pleasing to look at while keeping the polygon count low.
+
+I would receive criticism by my partners and make subsequent drafts to fit the game’s animations,
+atmosphere, and game engine limitations.  An example of this was making multiple editions of the blacksmith pliers.
+I developed multiple variations of this asset based on feedback from our team’s animator. He needed to animate a
+blacksmith holding an item with these pliers, so I modified the plier’s asset to fit the character’s hand. As such,
+I kept the open shape of the plier’s claws while closing its grip to fit the hand.
+See Variations: https://rb.gy/gjc2ue, https://rb.gy/zs801y
+
+These models are used for many aspects of the game including the game’s environment, animation, and user interface.
+Many of them contribute to the game’s architecture, tools, weapons, nature, and user interface elements. A
+significant amount of my work went into making tree variations, by request of one of our environment developers.
+Although I have developed many more variations, I have included some of the assets used in the game
+here: https://rb.gy/qp7zs2
+                 	
 ## Society of the Spectacle | Book Cover Design
 See Folder of Images: https://rb.gy/4z1r2p
 
