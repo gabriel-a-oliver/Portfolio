@@ -72,7 +72,7 @@ Customizable Cannon GitHub: https://tinyurl.com/4s78ml26
 
 Custom Mesh and Cylinder GitHub: https://tinyurl.com/4sqmw9xd
 
-## Mythos Studio | Assets for In-Development Roblox Game
+##  Assets for In-Development Roblox Game | Mythos Studio
 See Folders of Images: https://rb.gy/doynnz
 
 These assets were created for a game being developed by a small team of five developers. I designed
@@ -93,7 +93,7 @@ significant amount of my work went into making tree variations, by request of on
 Although I have developed many more variations, I have included some of the assets used in the game
 here: https://rb.gy/qp7zs2
                  	
-## Society of the Spectacle | Book Cover Design
+## Book Cover Design | Society of the Spectacle
 See Folder of Images: https://rb.gy/4z1r2p
 
 This project is from my Introduction to Design class where I had to create book a book cover for *Society of the
