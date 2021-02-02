@@ -66,8 +66,11 @@ their appropriate locations. In addition, the hoop is can be moved with direct i
 ball's texture can be swaped at any time.
 
 Playable Customizable Cannon (WebGL): tinyurl.com/16ai932a
+
 Customizable Cannon Video Demo: tinyurl.com/43m85w2g
+
 Custom Mesh and Cylinder GitHub: tinyurl.com/4sqmw9xd
+
 Customizable Cannon GitHub: tinyurl.com/4s78ml26
 
 ## Mythos Studio | Assets for In-Development Roblox Game
