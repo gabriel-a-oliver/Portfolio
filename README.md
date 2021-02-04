@@ -103,32 +103,6 @@ Many of them contribute to the game’s architecture, tools, weapons, nature, an
 significant amount of my work went into making tree variations, by request of one of our environment developers.
 Although I have developed many more variations, I have included some of the assets used in the game
 here: https://tinyurl.com/1xc401sh
-                 	
-## Book Cover Design | Society of the Spectacle
-See Folder of Images: https://rb.gy/4z1r2p
-
-This project is from my Introduction to Design class where I had to create book a book cover for *Society of the
-Spectacle* by Guy Debord. The goal of this project was to create a book cover that expresses the theme of the book, which
-uses formal contrasts, and asymmetrical-dynamic design. The assignment was to be completed individually and required me to
-make a 6 in. x 9 in. print which includes the name of the book and author and to use no outside sources. 
-
-In brief, the book *Society of the Spectacle*, published in 1967, is about how society oppresses itself through
-capitalism, media, and social pressures to keep the status quo. To create many different ideas, I made a mind map to figure
-out what subjects I could create to express this theme, see here: https://rb.gy/gufoyp. After a couple of class critiques,
-I noticed that my classmates were not abstracting the theme of the book, but rather focusing on an example of contemporary
-social pressure. Acknowledging how my classmates were tackling the project, I had decided to make something unique and
-abstract the theme and only using simple shapes to make the composition. My classmates were using Adobe Illustrator to
-develop their book covers, but I found that the design I wished to make required 3D modelling. I decided to use Blender to
-design the composition, noting that no other classmate was using 3D modelling to develop their book cover.
-
-The first draft, here: https://rb.gy/chymex, was a large rectangle that casts a shadow on small circles. The idea being that
-the circles strive to be something that they cannot, and it keeps them oppressed. Issues with this draft included its poor
-lighting and portraying the idea that a separate force is oppressing the people, rather than the people oppressing themselves.
-The second draft, here: https://rb.gy/myhyk1, fixed issues with the theme. However, it needed further development in its formal
-contrasts and lighting. For the final version here: https://rb.gy/tndynr, I tightened the framing, fully desaturated the
-colors, and increased the lighting contrast to represent the dismal tone of the book. Lastly, I added the book title and author
-in the top left corner using Adobe Illustrator. I enlarged the words “Society” and “Spectacle” to pronounce their importance in
-the book’s theme and imagery of the book cover. 
 
 ## Untitled Jam Game | Map Theme, AI A* Implementation, Enemy Parent Class, Melee Weapon, Health, and Speed-boost Programming
 See Folder of Images: https://rb.gy/noivnu
@@ -168,6 +142,32 @@ develop the tool and appropriately defined the model's UV map to apply different
 Adobe Photoshop to develop a cube's UV and tested different textures to see if it makes a block look distinct in the game world.
 
 *RimeCraft* Trailer and Game: https://aj213.itch.io/rimecraft
+
+## Book Cover Design | Society of the Spectacle
+See Folder of Images: https://rb.gy/4z1r2p
+
+This project is from my Introduction to Design class where I had to create book a book cover for *Society of the
+Spectacle* by Guy Debord. The goal of this project was to create a book cover that expresses the theme of the book, which
+uses formal contrasts, and asymmetrical-dynamic design. The assignment was to be completed individually and required me to
+make a 6 in. x 9 in. print which includes the name of the book and author and to use no outside sources. 
+
+In brief, the book *Society of the Spectacle*, published in 1967, is about how society oppresses itself through
+capitalism, media, and social pressures to keep the status quo. To create many different ideas, I made a mind map to figure
+out what subjects I could create to express this theme, see here: https://rb.gy/gufoyp. After a couple of class critiques,
+I noticed that my classmates were not abstracting the theme of the book, but rather focusing on an example of contemporary
+social pressure. Acknowledging how my classmates were tackling the project, I had decided to make something unique and
+abstract the theme and only using simple shapes to make the composition. My classmates were using Adobe Illustrator to
+develop their book covers, but I found that the design I wished to make required 3D modelling. I decided to use Blender to
+design the composition, noting that no other classmate was using 3D modelling to develop their book cover.
+
+The first draft, here: https://rb.gy/chymex, was a large rectangle that casts a shadow on small circles. The idea being that
+the circles strive to be something that they cannot, and it keeps them oppressed. Issues with this draft included its poor
+lighting and portraying the idea that a separate force is oppressing the people, rather than the people oppressing themselves.
+The second draft, here: https://rb.gy/myhyk1, fixed issues with the theme. However, it needed further development in its formal
+contrasts and lighting. For the final version here: https://rb.gy/tndynr, I tightened the framing, fully desaturated the
+colors, and increased the lighting contrast to represent the dismal tone of the book. Lastly, I added the book title and author
+in the top left corner using Adobe Illustrator. I enlarged the words “Society” and “Spectacle” to pronounce their importance in
+the book’s theme and imagery of the book cover.
 
 ## Airsoft Gun Based on Halo SMG Design
 See Folders of Images: https://rb.gy/7kjx7m
