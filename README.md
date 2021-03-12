@@ -33,7 +33,7 @@ allocated work to each group member responsibly and managed to complete each tas
 https://css385team.github.io/CovidCrasher-Website/index.html
 
 Play *COVID CRASHER*:
-https://simmer.io/@Khaoula/covidcrasher-final
+https://gabrieloliver.itch.io/covid-crasher
     
 ## Interactable 3D Models & Customizable Cannon | CSS451 3-D Computer Graphics Course
 See Folders of Images and Videos: https://tinyurl.com/3yl745ro
