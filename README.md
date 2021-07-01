@@ -2,6 +2,25 @@
 ## oliver.gabriel.a@hotmail.com | https://www.linkedin.com/in/gabriel-a-oliver/
 
 
+## GBErased | Game Designer & Engineer
+See Folder of Images and Trailer: https://tinyurl.com/pdkzcmes
+
+*GBErased* is a game created by me and 2 other friends for the University of Washington Bothell's Husky Game Dev
+Club Spring 2021 Game Jam. In this game, the player must survive and defend his/her pencil friends from the pencil
+sharpener enemies until they have all reached safety. For this project, I designed the gameplay and level to be tight
+and fast paced, with the goal that the player must always remain moving and being aware of enemy positions. In addition,
+I programmed the entire game using the Unreal Engine 4 game engine. This includes the gameplay, UI, menus, and branching
+endings.
+
+The University of Washington Bothell's Husky Game Dev Club Spring 2021 Game Jam was a two week event. It's theme was
+"Erase". I decided to centralize the art style around office supplies in which the player shoots pencil erasers. I held 
+regular meetings with my 3D artist to ensure the art style is satisfactory to the Game Jam's theme and presented the game
+at the end of the game jam.
+
+*GBErased* Code: https://tinyurl.com/wzv6fxtp
+
+Play *GBErased*: https://tinyurl.com/bad8f4
+
 ## COVID CRASHER | Gameplay/Level Engineer & Designer
 See Game Image: https://rb.gy/iuxszx
 
