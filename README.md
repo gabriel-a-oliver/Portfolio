@@ -53,7 +53,18 @@ https://css385team.github.io/CovidCrasher-Website/index.html
 
 Play *COVID CRASHER*:
 https://gabrieloliver.itch.io/covid-crasher
-    
+
+## Finite State Machine API | University of Washington Bothell Applied Computing Capstone 2021
+See FSM API Video and Gifs: https://tinyurl.com/fsmrmxs9
+
+This project was created using and functioning on Unity 2020.2.1f1. You may download it and use it for your own projects, but please leave credit.
+The purpose of the Finite State Machine (FSM) API is to regulate events and user inputs to trigger the appropriate gameobject behaviors. For gameobjects with multiple behaviors with complex logic to transition between behaviors, this API cleanly organizes the behaviors into states and reduces logic complexity when switching between states.
+This API is meant for game engineers to write scripts that inherit from the API. The game engineer needs to understand how to code in C# and add components to gameobjects in the Unity engine. You can follow this simple API tutorial documented here as an introduction to using the API: FSM API Tutorial – Google Docs.
+This API can be used for any gameobject including player characters. Player FSMs are scalable, but it is not recommended for PFSMs to go beyond state complexities that are observable in common first-person video games.
+The result of this project is a FSM API that game developers can use for their projects to organize the behaviors and logic transitions.
+
+FSM API Code: https://tinyurl.com/v3rkaucx
+
 ## Interactable 3D Models & Customizable Cannon | CSS451 3-D Computer Graphics Course
 See Folders of Images and Videos: https://tinyurl.com/3yl745ro
 
